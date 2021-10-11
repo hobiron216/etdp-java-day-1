@@ -67,13 +67,6 @@ public class pelatihan1 {
 
         System.exit(0);
 
-
-//        else if (mode==)
-//        // Menampilkan apa yang sudah simpan di variabel
-//        System.out.println("--------------------");
-//        System.out.println("Nama Karyawan: " + nama);
-//        System.out.println("Alamat: " + alamat);
-//        System.out.println("Usia: " + usia + " tahun");
-//        System.out.println("Gaji: Rp " + gaji);
     }
 }
+
